@@ -1,1 +1,1 @@
-# LFSR-and-RC4
+# LFSR-Random-Generator
